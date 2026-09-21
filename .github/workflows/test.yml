@@ -1,5 +1,5 @@
 name: Test project
-trigger: push
+on: push
 
 jobs:
   test:
